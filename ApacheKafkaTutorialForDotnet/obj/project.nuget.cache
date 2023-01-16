@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uh7/+u2RXNj+bY04XGAbKv+LkQs0VQUCQMBSyRDbRSinyu68Lfdt5Xja+Yja1LFfxQhqL9c1sZqNVZ6cVvtdOA==",
+  "success": true,
+  "projectFilePath": "/Users/senaserdar/RiderProjects/ApacheKafkaTutorialForDotnet/ApacheKafkaTutorialForDotnet/ApacheKafkaTutorialForDotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/senaserdar/.nuget/packages/confluent.kafka/1.0.0-beta3/confluent.kafka.1.0.0-beta3.nupkg.sha512",
+    "/Users/senaserdar/.nuget/packages/librdkafka.redist/1.0.0-rc7/librdkafka.redist.1.0.0-rc7.nupkg.sha512",
+    "/Users/senaserdar/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/senaserdar/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
